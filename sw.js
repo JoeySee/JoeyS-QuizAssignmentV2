@@ -8,20 +8,20 @@ self.addEventListener('install', function(event) {
         '/index.html',
         '/quizproject.css',
         '/quizproject.js',
-		'/quizimages/q1.jpg'
-		'/quizimages/q2.jpg'
-		'/quizimages/q3.jpg'
-		'/quizimages/q4.jpg'
-		'/quizimages/q5.jpg'
-		'/quizimages/q6.jpg'
-		'/quizimages/q7.jpg'
-		'/quizimages/q8.jpg'
-		'/quizimages/q9.jpg'
-		'/quizimages/q10.jpg'
-		'/quizimages/spaceBackground.jpg'
-		'/quizimages/mobileBackground.jpg'
-		'/quizimages/starfleetlogo.jpg'
-		'/quizimages/favicon.ico'
+	'/quizimages/q1.jpg',
+	'/quizimages/q2.jpg',
+	'/quizimages/q3.jpg',
+	'/quizimages/q4.jpg',
+	'/quizimages/q5.jpg',
+	'/quizimages/q6.jpg',
+	'/quizimages/q7.jpg',
+	'/quizimages/q8.jpg',
+	'/quizimages/q9.jpg',
+	'/quizimages/q10.jpg',
+	'/quizimages/spaceBackground.jpg',
+	'/quizimages/mobileBackground.jpg',
+	'/quizimages/starfleetlogo.jpg',
+	'/quizimages/favicon.ico',
         '/notfound.txt'
       ]);
     })
